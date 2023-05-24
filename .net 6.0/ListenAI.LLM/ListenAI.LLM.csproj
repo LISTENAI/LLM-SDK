@@ -6,6 +6,11 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>0.1.0</Version>
+    <Company>LISTENAI</Company>
+    <PackageProjectUrl>https://github.com/LISTENAI/LLM-SDK</PackageProjectUrl>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+	<PackageDescription>ListenAI LLM SDK</PackageDescription>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
